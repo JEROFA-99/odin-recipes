@@ -1,0 +1,1 @@
+This is the very first odin project. In this project I will be using foundational skills involving HTML and navigating git hub. The project I am creating will be a simple recipe website.
